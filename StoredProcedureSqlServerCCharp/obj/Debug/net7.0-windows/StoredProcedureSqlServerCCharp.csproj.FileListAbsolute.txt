@@ -1,0 +1,147 @@
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.exe
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.deps.json
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.runtimeconfig.json
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.Form1.resources
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.GenerateResource.cache
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfoInputs.cache
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfo.cs
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\refint\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.genruntimeconfig.cache
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\ref\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.AssemblyReference.cache
+C:\Users\dudaa\source\repos\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CopyComplete
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.deps.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.runtimeconfig.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.Form1.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfoInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfo.cs
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CopyComplete
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\refint\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.genruntimeconfig.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Crud Versões\Versão 1.1.3 com botão Salvar validação do Cpf para duplicidade\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\ref\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.deps.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.runtimeconfig.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.Form1.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfoInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfo.cs
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CopyComplete
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\refint\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.genruntimeconfig.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\ref\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.deps.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.runtimeconfig.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.Form1.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfoInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfo.cs
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CopyComplete
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\refint\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.genruntimeconfig.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\ref\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\VERSÃO FINAL 1.1.4 TutorialCRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.deps.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.runtimeconfig.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.Form1.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfoInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfo.cs
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CopyComplete
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\refint\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.genruntimeconfig.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\O CRUD TRABALHO DA VANESSA\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\ref\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.deps.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.runtimeconfig.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.Form1.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfoInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.AssemblyInfo.cs
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.csproj.CopyComplete
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\refint\StoredProcedureSqlServerCCharp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\StoredProcedureSqlServerCCharp.genruntimeconfig.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\CRUD\StoredProcedureSqlServerCCharp\obj\Debug\net7.0-windows\ref\StoredProcedureSqlServerCCharp.dll

@@ -1,0 +1,118 @@
+1)CREATE DATABASE CrudFuncionario \\ Cria o Banco de Dados
+
+2)USE CrudFuncionario // Seleciona o Banco de Dados
+
+   // Agora crie a tabela Funcionario usando o proximo comando. 
+
+3)CREATE TABLE Funcionario(
+    ID            INT IDENTITY (1, 1) NOT NULL,
+    Nome        VARCHAR (100) NULL,
+    CPF          VARCHAR (20) NOT NULL,
+    DataAdmissao      DATETIME NULL,
+    Email        VARCHAR (100) NULL,
+    Telefone     VARCHAR (15)  NULL,
+    Endereco    VARCHAR (150) NULL,
+    EstadoCivil  VARCHAR (20)  NULL,
+    Conjuge     VARCHAR (100) NULL,
+    Filhos       INT           DEFAULT (NULL) NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+
+  
+
+-- Crie as seguintes procedures SQL no banco de dados:
+
+
+
+   -- `pr_AtualizarFuncionario`: Uma procedure para atualizar um registro existente na tabela "Funcionario".
+
+CREATE PROCEDURE pr_AtualizarFuncionario
+    @ID INT,
+    @Nome NVARCHAR(255),
+    @Endereco NVARCHAR(255),
+    @Email NVARCHAR(255),
+    @Conjuge NVARCHAR(255),
+    @Filhos INT,
+    @DataAdmissao NVARCHAR(10),
+    @Telefone NVARCHAR(20),
+    @EstadoCivil NVARCHAR(50)
+AS
+BEGIN
+    -- Atualize o registro existente com base no ID
+    UPDATE Funcionario
+    SET
+        Nome = @Nome,
+        Endereco = @Endereco,
+        Email = @Email,
+        Conjuge = @Conjuge,
+        Filhos = @Filhos,
+        DataAdmissao = @DataAdmissao,
+        Telefone = @Telefone,
+        EstadoCivil = @EstadoCivil
+    WHERE ID = @ID
+
+    SELECT 'Funcionário atualizado com sucesso' AS Resultado
+END
+    
+
+
+
+
+
+
+ -- `pr_ExcluirFuncionario`: Uma procedure para excluir um registro da tabela "Funcionario".
+
+CREATE PROCEDURE pr_ExcluirFuncionario
+@ID as int
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    DELETE FROM Funcionario WHERE ID = @ID
+END
+    
+
+-- `pr_SalvarFuncionario`: Uma procedure para Salvar um registro  na tabela "Funcionario".
+
+CREATE PROCEDURE pr_SalvarFuncionario
+    @Nome NVARCHAR(100),
+    @CPF NVARCHAR(20),
+    @Endereco NVARCHAR(100),
+    @Email NVARCHAR(100),
+    @Conjuge NVARCHAR(100),
+    @Filhos INT,
+    @DataAdmissao DATETIME,
+    @Telefone NVARCHAR(20),
+    @EstadoCivil NVARCHAR(20)
+AS
+BEGIN
+    -- Verificar se o CPF já existe na base
+    IF EXISTS (SELECT 1 FROM Funcionario WHERE CPF = @CPF)
+    BEGIN
+        -- CPF já cadastrado, retornar mensagem apropriada
+        SELECT 'CPF cadastrado já na base' AS Result;
+    END
+    ELSE
+    BEGIN
+        -- CPF não cadastrado, proceder com a inserção
+        INSERT INTO Funcionario (Nome, CPF, Endereco, Email, Conjuge, Filhos, DataAdmissao, Telefone, EstadoCivil)
+        VALUES (@Nome, @CPF, @Endereco, @Email, @Conjuge, @Filhos, @DataAdmissao, @Telefone, @EstadoCivil);
+
+        -- Retornar mensagem de sucesso
+        SELECT 'Funcionário salvo com sucesso' AS Result;
+    END
+END
+
+
+
+
+
+-- `pr_BuscarFuncionario`: Uma procedure para Buscar um registro  na tabela "Funcionario".
+
+CREATE PROCEDURE [dbo].[pr_BuscarFuncionario]
+@Nome AS VARCHAR (100)
+AS
+BEGIN
+	SET NOCOUNT ON;
+	SELECT ID, Nome, CPF, DataAdmissao, Email, Telefone, Endereco, Conjuge, Filhos, EstadoCivil FROM Funcionario WHERE Nome Like '%' + @Nome +'%'
+	END
